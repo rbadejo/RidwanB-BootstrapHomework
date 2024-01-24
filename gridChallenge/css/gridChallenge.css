@@ -4,39 +4,45 @@ html body {
     font-family: 'Montserrat', serif;
     background-color: rgb(16, 3, 36);
 }
-.yellow-col {
-    background-color: yellow;
+
+/* Different shades of blue for columns */
+.blue-col1 {
+    background-color: #0066cc; /* Dark Blue */
     padding: 20px;
 }
-.brown-col {
-   background-color: brown;
-   padding: 20px;
-}
-.red-col {
-    background-color: red;
+
+.blue-col2 {
+    background-color: #3399ff; /* Medium Blue */
     padding: 20px;
 }
-.blue-col {
-   background-color: blue;
-   padding: 20px;
+
+.blue-col3 {
+    background-color: #66b2ff; /* Light Blue */
+    padding: 20px;
 }
+
+/* Other colors */
 .green-col {
     background-color: green;
     padding: 20px;
 }
+
 .pink-col {
-   background-color: pink;
-   padding: 20px;
+    background-color: pink;
+    padding: 20px;
 }
+
 .orange-col {
     background-color: orange;
     padding: 20px;
 }
+
 .purple-col {
-   background-color: purple;
-   padding: 20px;
+    background-color: purple;
+    padding: 20px;
 }
+
 .azul-col {
     background-color: azure;
     padding: 20px;
- }
+}
