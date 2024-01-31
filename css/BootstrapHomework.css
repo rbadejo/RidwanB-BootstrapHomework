@@ -86,3 +86,46 @@ h2 {
     font-weight: 500;
     text-align: center;
 }
+
+/* BS 2 */
+.btn,
+.btn-primary {
+	background-color: blue;
+	border-color: blue;
+}
+.btn-primary:hover {
+	background-color: green;
+	border-color: green;
+}
+
+h1 {
+	font-size: 1.802em;
+}
+
+h2 {
+	font-size: 1.602em;
+}
+
+h3 {
+	font-size: 1.424em;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 1.266em;
+}
+
+.card-base {
+	text-align: center !important;
+}
+
+/* swap arrow color to black*/
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+	background-color: aqua;
+}
+
+.carousel-padding {
+	padding-left: 125px;
+	padding-right: 125px;
+}
